@@ -1,0 +1,12 @@
+Ivan Franko,Programing,2018,350,25.00$
+Dmytro Franko,Zahar Berkut,2022,78,33.20$
+Eduard Franko,Zahar Berkut,2000,231,15.50$
+Olexandr Franko,Zahar Berkut,1990,453,17.80$
+Norbert Franko,Zahar Berkut,1921,156,13.60$
+Oleg Franko,Zahar Berkut,1914,360,20.50$
+Dmytro Egreshi,Beautiful Girl,2020,333,12.5$
+Mykhailo Franko,Zahar Berkut,1923,400,10.80$
+Stepan Franko,Zahar Berkut,1954,400,4.50$
+Nazariy Franko,Zahar Berkut,2021,400,5.57$
+Petro Franko,Eneida    ,1943,400,23.50$
+Kernigan Richi,Good Boy,2019,157,42.52$
